@@ -1,0 +1,2 @@
+# GOSU
+README.TXT
